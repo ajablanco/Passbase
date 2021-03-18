@@ -1,0 +1,2 @@
+function-id: processWebhooks
+template-path: ../../template.yaml
